@@ -9,6 +9,7 @@ footer {
     height: 120px;
     background-color: rgb(170, 194, 196);
     color: white;
+    border-radius: 20px;
 }
 
 h1,

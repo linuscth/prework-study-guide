@@ -1,6 +1,8 @@
 
 var topics = ['HTML', 'CSS', 'Git', 'JavaScript']
 var randomtopic = topics[Math.floor(Math.random() * topics.length)];
+var luckydraw = ['linus', 'charlie', 'boris', 'jacky'];
+var luckyperson = luckydraw[Math.floor(Math.random() * luckydraw.length)];
 
 
 
@@ -8,6 +10,8 @@ function listTopics() {
     for (var x = 0; x < topics.length; x++)
         console.log(topics[x]);
 }
+
+
 
 
 function selectTopic() {
@@ -27,7 +31,6 @@ console.log('here are the topics we learned through prework:');
 listTopics()
 console.log('which topic we study first?');
 selectTopic()
-
 
 
 
