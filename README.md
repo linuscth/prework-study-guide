@@ -3,12 +3,7 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
 This project is created based on the prework study guide with instructions. It is also for new bootcamp signup students to understands the basics of HTML, CSS, JavaScript, and Git. The project also gives coding newbies to have a prior understanding of the coding world. Upon finishing the prework, students will gain a great udnerstnading of the prgramming languages. 
 
 ## Installation
